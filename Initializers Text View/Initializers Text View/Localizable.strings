@@ -1,0 +1,5 @@
+
+//Content of Localizable.strings
+"hello key" = "Hello from the default localization file";
+
+"bye key" = "Goodbye from the default localization file";
